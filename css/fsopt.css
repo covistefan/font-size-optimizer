@@ -1,0 +1,7 @@
+.clearbreak {width:100%;clear:both;float:none;height:0.1px;border:none;outline:none;background:none;}
+#element_edit_area {float:left;width:45%;padding:10px;background:rgba(0,0,0,0.13);border:1px solid rgba(255,255,255,0.5);}
+.fielddesc {min-width:50%;float:left;clear:both;}
+#generated_code_area {float:left;margin-left:2%;width:45%;display:block;padding:10px;background:rgba(0,0,0,0.13);border:1px solid rgba(255,255,255,0.5);}
+.codeholder {margin-bottom:10px;}
+.showcode {font-family:monospace;white-space:pre;border:1px dotted grey;padding:5px; margin-bottom: 5px;}
+.editcode .showcode {background:#fff;}

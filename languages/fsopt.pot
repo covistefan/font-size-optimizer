@@ -1,0 +1,117 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Font Size Optimizer\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-01-30 16:48+0100\n"
+"POT-Revision-Date: Fri Aug 05 2016 11:26:13 GMT+0200 (CEST)\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: fsopt.php:102
+msgid ""
+"Define elements that the Font Size Optimizer function should be used on."
+msgstr ""
+
+#: fsopt.php:182
+msgid "selector to change"
+msgstr ""
+
+#: fsopt.php:184
+msgid "class name of modified elements"
+msgstr ""
+
+#: fsopt.php:186
+msgid "minimum font-size of modified elements"
+msgstr ""
+
+#: fsopt.php:188
+msgid "kind of modification"
+msgstr ""
+
+#: fsopt.php:190
+msgid "word"
+msgstr ""
+
+#: fsopt.php:191
+msgid "line"
+msgstr ""
+
+#: fsopt.php:192
+msgid "wordline"
+msgstr ""
+
+#: fsopt.php:197
+msgid "number of characters in one wordline"
+msgstr ""
+
+#: fsopt.php:203
+msgid "span to parent width"
+msgstr ""
+
+#: fsopt.php:209
+msgid "stich multiple lines"
+msgstr ""
+
+#: fsopt.php:214 fsopt.php:312
+msgid "Insert"
+msgstr ""
+
+#: fsopt.php:215
+msgid "Cancel"
+msgstr ""
+
+#: fsopt.php:242 fsopt.php:309
+msgid "Remove"
+msgstr ""
+
+#: fsopt.php:243 fsopt.php:310
+msgid "Edit"
+msgstr ""
+
+#: fsopt.php:244 fsopt.php:311
+msgid "Duplicate"
+msgstr ""
+
+#: fsopt.php:254
+msgid "Debug Mode (shows calculating in console)"
+msgstr ""
+
+#: fsopt.php:255
+msgid ""
+"Please use the 'Save'-button to finaly delete removed fsopt allocations."
+msgstr ""
+
+#: fsopt.php:256
+msgid "Save"
+msgstr ""
+
+#: fsopt.php:308
+msgid "Please setup at least the selector"
+msgstr ""
+
+#: fsopt.php:313
+msgid "Assign Changes"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "appleuser"
+msgstr "appleuser"
+
+#. Author URI of the plugin/theme
+msgid "https://profiles.wordpress.org/appleuser"
+msgstr "https://profiles.wordpress.org/appleuser"

@@ -1,0 +1,135 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Font Size Optimizer\n"
+"POT-Creation-Date: 2020-02-26 11:10+0100\n"
+"PO-Revision-Date: 2020-02-26 11:43+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: fsopt.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#. Plugin Name of the plugin/theme
+#: fsopt.php:95 fsopt.php:101
+msgid "Font Size Optimizer"
+msgstr "Font Size Optimizer"
+
+#: fsopt.php:102
+msgid ""
+"Define elements that the Font Size Optimizer function should be used on."
+msgstr ""
+"Definiere die Elemente, deren Schriftgröße automatisch angepasst werden "
+"soll."
+
+#: fsopt.php:182
+msgid "selector to change"
+msgstr "Selektor"
+
+#: fsopt.php:184
+msgid "class name of modified elements"
+msgstr "Klassenname, der optimierten Elementen hinzugefügt wird"
+
+#: fsopt.php:186
+msgid "minimum font-size of modified elements"
+msgstr "Mindestgröße modifizierter Texte"
+
+#: fsopt.php:188
+msgid "kind of modification"
+msgstr "Auswirkung der Veränderung"
+
+#: fsopt.php:190
+msgid "word"
+msgstr "Wort"
+
+#: fsopt.php:191
+msgid "line"
+msgstr "Zeile"
+
+#: fsopt.php:192
+msgid "wordline"
+msgstr "Min. Worte in Zeile"
+
+#: fsopt.php:197
+msgid "number of characters in one wordline"
+msgstr "Anzahl der Zeichen in der Zeile"
+
+#: fsopt.php:203
+msgid "span to parent width"
+msgstr "Auf die Breite des Containers bringen"
+
+#: fsopt.php:209
+msgid "stich multiple lines"
+msgstr "Einzelne Linien dichter zusammenschieben"
+
+#: fsopt.php:214 fsopt.php:312
+msgid "Insert"
+msgstr "Einfügen"
+
+#: fsopt.php:215
+msgid "Cancel"
+msgstr "Abbrechen"
+
+#: fsopt.php:242 fsopt.php:309
+msgid "Remove"
+msgstr "Entfernen"
+
+#: fsopt.php:243 fsopt.php:310
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: fsopt.php:244 fsopt.php:311
+msgid "Duplicate"
+msgstr "Duplizieren"
+
+#: fsopt.php:254
+msgid "Debug Mode (shows calculating in console)"
+msgstr "Debug-Modus (zeigt Berechnungsinformationen in der Konsole)"
+
+#: fsopt.php:255
+msgid ""
+"Please use the 'Save'-button to finaly delete removed fsopt allocations."
+msgstr ""
+"Bitte den Speichern-Button benutzen, um die entfernten Zuweisungen final "
+"zu löschen."
+
+#: fsopt.php:256
+msgid "Save"
+msgstr "Übernehmen"
+
+#: fsopt.php:308
+msgid "Please setup at least the selector"
+msgstr ""
+"Bitte mindestens den Selektor angeben. Alle anderen Werte sind optional."
+
+#: fsopt.php:313
+msgid "Assign Changes"
+msgstr "Änderungen anwenden"
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/font-size-optimizer/"
+msgstr "https://wordpress.org/plugins/font-size-optimizer/"
+
+#. Description of the plugin/theme
+msgid "Optimize Text size to parent element width"
+msgstr ""
+"Optimiere automatisch die Textgröße entsprechend des umgebenden Elementes."
+
+#. Author of the plugin/theme
+msgid "appleuser"
+msgstr "appleuser"
+
+#. Author URI of the plugin/theme
+msgid "https://profiles.wordpress.org/appleuser"
+msgstr "https://profiles.wordpress.org/appleuser"
